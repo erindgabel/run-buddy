@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -63,7 +63,6 @@ footer a {
 }
 section {
     padding: 60px;
-
 }
 /* Hero Style Start */
 .hero {
@@ -91,7 +90,7 @@ section {
 .hero-form p {
     margin: 5px 0 15px 0;
 }
-.form-input{
+.form-input {
     border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
@@ -103,7 +102,7 @@ section {
 .hero-form label {
     margin: 0 5px;
 }
-.hero-form button{
+.hero-form button {
     color: #fce138;
     background-color: #024e76;
     border: none;
@@ -128,14 +127,14 @@ section {
     text-align: center;
     background: #fce138;
 }
-.steps h2 {
+/*.steps h2 {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     border-color: #39a6b2;
-}
+}*/
 .steps div {
     margin-bottom: 80px;
 }
@@ -232,14 +231,14 @@ section {
     margin: 30px 0 0 60px;
     color: white;
 }
-.section-title {
+/*.section-title {
     font-size: 55px;
     display: inline-block;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     margin-bottom: 35px;
     color: #024e76;
-}
+}*/
 .contact-info h3{
     color: #fce138;
     font-size: 32px;
@@ -255,9 +254,9 @@ section {
 }
 /* Reach Out Style End */
 
-.hero {
+/*.hero {
     background-position: bottom;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
-}
+}*/
